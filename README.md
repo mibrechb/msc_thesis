@@ -5,8 +5,8 @@ This is the code repository for the the MSc thesis "Multi-sensor lake ice monito
 ## folder structure
 
 * gee
-  * **Training Polygon Generator (xx).js**    (Training polygon generator, based on coarse-classification or manual (S-2))
-  * **Training Data Generator (xx).js**       (Training samples generator, based on training polygons)
+  * **Training Polygon Generator (xx).js**    (Training polygon generator, based on coarse-classification or manual (S-2))
+  * **Training Data Generator (xx).js**    (Training samples generator, based on training polygons)
   * **xx Toolbox.js**                         (Toolbox with sensor-specific functions)
   * **Classifier (xx, modular).js**           (Sensor-specific classifier)
   * **licmonitoring_app.js**                  (GEE app)
