@@ -1,4 +1,4 @@
-# licmonitoring.com repository ![alt text](https://lh4.googleusercontent.com/gJZAJyTShQI_eVRflW55b6FcaoYiSUuTXL33Vev-nGZggze9rQAOeWd0Jw9KKQyYuv7V9bKUUvHBtC3CKsLtc0Y=w16383 "licmonitoring logo")
+# licmonitoring.com repository ![alt text](https://drive.google.com/file/d/1SY0qsvm_LsjFGJsEmb4Oufog7EM-5o-h/view?usp=sharing "licmonitoring logo")
 ---
 
 This is the code repository for the the MSc thesis "Multi-sensor lake ice monitoring in the European Alps using the Google Earth Engine" by Michael Brechbühler of the Departement of Geography at the University of Zurich. This repository contains all the main scripts used in the thesis. For more information please visit [licmonitoring.com](https://www.licmonitoring.com).
