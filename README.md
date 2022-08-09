@@ -15,4 +15,4 @@ This is the code repository for the the MSc thesis "***Multi-sensor lake ice mon
   * **Lake Shadow Coverage.js**               (Topographic lake shadow extractor)
 
 * trainingsets
-  * **trainingset_xx.csv**                    (Full training set with samples used for model training and validation)
+  * **trainingset_xx.zip**                    (Full training set with samples used for model training and validation)
